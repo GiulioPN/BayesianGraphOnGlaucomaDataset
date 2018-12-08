@@ -1,9 +1,9 @@
 # BayesianRcodes
 Bayesian Project on glaucoma dataset
 
-**OBJ: **find a relation among variables using bayesian graphical network (ie. BDGraph)
+**OBJ:** find a relation among variables using bayesian graphical network (ie. BDGraph)
 
-**Files Description: **
+**Files Description:**
   
   * `ManageDataset.R` : aggiunge 2 campi al dataset: Visita(per ogni paziente abbiamo il numero di visite) e n_paziente (numerazione corretta dei pazienti), la variabile Patient ha dei numeri mancanti.
   	Questo per facilitare la filtrazione al numero di visite
